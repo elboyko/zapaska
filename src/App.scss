@@ -1,0 +1,30 @@
+.container {
+  max-width: 1780px;
+  width: 100%;
+  padding: 40px 24px 0;
+  margin: 0 auto;
+}
+.heading {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 44px;
+  font-weight: 500;
+  display: flex;
+  justify-content: start;
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+
+.slick-slide {
+  margin-right: 2px;
+}
+.slick-slide:first-of-type {
+  margin-right: 0;
+}
+.slick-slide:last-of-type {
+  margin-right: 0;
+}
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 40px 10px 0;
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "./image1.png",
+    "title": "205/55R16 PIRELLI CINTURATO P7 91VPIRELLI CINTURATO P7 91V",
+    "priceSale": "6 750 ₽",
+    "priceNormal": "6 750 ₽"
+  },
+  {
+    "id": 2,
+    "imageUrl": "./image1.png",
+    "title": "205/55R16 PIRELLI CINTURATO P7 91VPIRELLI CINTURATO P7 91V",
+    "priceSale": "6 750 ₽",
+    "priceNormal": "6 750 ₽"
+  },
+  {
+    "id": 3,
+    "imageUrl": "./image1.png",
+    "title": "205/55R16 PIRELLI CINTURATO P7 91VPIRELLI CINTURATO P7 91V",
+    "priceSale": "6 750 ₽",
+    "priceNormal": "6 750 ₽"
+  },
+  {
+    "id": 4,
+    "imageUrl": "./image1.png",
+    "title": "205/55R16 PIRELLI CINTURATO P7 91VPIRELLI CINTURATO P7 91V",
+    "priceSale": "6 750 ₽",
+    "priceNormal": "6 750 ₽"
+  },
+  {
+    "id": 5,
+    "imageUrl": "./image1.png",
+    "title": "205/55R16 PIRELLI CINTURATO P7 91VPIRELLI CINTURATO P7 91V",
+    "priceSale": "6 750 ₽",
+    "priceNormal": "6 750 ₽"
+  },
+  {
+    "id": 6,
+    "imageUrl": "./image1.png",
+    "title": "205/55R16 PIRELLI CINTURATO P7 91VPIRELLI CINTURATO P7 91V",
+    "priceSale": "6 750 ₽",
+    "priceNormal": "6 750 ₽"
+  }
+]

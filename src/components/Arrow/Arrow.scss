@@ -1,0 +1,27 @@
+.info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.arrows {
+  img {
+    margin-right: 20px;
+  }
+}
+
+.link {
+  cursor: pointer;
+  width: 242px;
+  height: 44px;
+  background-color: #e41d1b;
+  border-radius: 10px;
+  color: #fff;
+  border: none;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
